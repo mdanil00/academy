@@ -1,0 +1,110 @@
+body {  padding: 0;
+    margin: 0;
+    font-family: Tahoma, serif;
+    background-size: cover;
+    width: auto;
+    background: rgb(238, 238, 232);
+}
+
+#table1 {  /*основная таблица*/
+    width:1500px ;
+    background: rgb(255, 255, 255); 
+}
+
+
+.td1 {width: 30%;}
+.td2 {width: 14%;}
+.td3 {width: 8%;}
+.td4 {width: 17%;}
+.td5 {width: 50%;}
+
+A{color:green;
+text-decoration: none;}
+
+#shapka {
+font-size: 20px;
+font-style: normal;
+font-weight: normal;
+font-stretch: normal;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+color: green;
+line-height: 30px;
+padding: .5em .5em;
+}
+
+#button1 {/*кнопка записаться на занятие*/
+    color: #fffcf1; 
+    text-decoration: none; 
+    user-select: none; 
+    background:rgb(238, 238, 232); 
+    padding: .1em .5em; 
+    outline: none; 
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10px;
+} 
+#button1:hover { background:rgb(69, 204, 69); } /* при наведении курсора мышки */
+#button1:active { background:rgb(205, 214, 205); } /* при нажатии */
+
+#logo {  /*название*/
+    font-size: 25px;
+    font-style: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    color: green;
+    line-height: 30px;
+}
+
+h1{
+    text-align: center;
+    margin-top: 55px;
+  margin-left: 50px;
+}
+#table2{
+    float: left;
+    margin-left: 100px;
+    border-radius: 10px;
+    border-spacing: 100px;
+    
+    
+}
+h2{
+    text-align: center;
+    margin-top: 55px;
+  margin-left: 100px;
+}
+h3{
+    text-align: center;
+    margin-top: 55px;
+  margin-left: 250px;
+  line-height: 1;
+  width: 1000px;
+  color: rgb(102, 98, 94);
+  line-height: 1.7;
+}
+h4{
+    margin-left: 150px;
+}
+p{
+    font-size: 22  ;
+    color: green;
+}
+p1{
+    font-size: 15;
+}
+h5{margin-right: 250px;
+    text-align: center;
+font-size: 20;
+}
+h6{
+    font-size: 18;
+    margin-left: 50px;
+    text-align: center;
+}
+h7{
+    text-align: center;
+font-size: 20;
+}

@@ -1,0 +1,92 @@
+body {
+    background-color: #fffcf1;
+}
+
+#table1 {  /*основная таблица*/
+    width: 100%;
+}
+
+.td1 {width: 30%;}
+.td2 {width: 14%;}
+.td3 {width: 8%;}
+.td4 {width: 17%;}
+.td5 {width: 50%;}
+
+A{color:green;
+text-decoration: none;}
+
+#shapka {
+font-size: 20px;
+font-style: normal;
+font-weight: normal;
+font-stretch: normal;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+color: green;
+line-height: 30px;
+padding: .5em .5em;
+}
+
+#button1 {/*кнопка записаться на занятие*/
+    color: #fffcf1; 
+    text-decoration: none; 
+    user-select: none; 
+    background:green; 
+    padding: .1em .5em; 
+    outline: none; 
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10px;
+} 
+#button1:hover { background: rgb(32, 151, 38); } /* при наведении курсора мышки */
+#button1:active { background: rgb(29, 173, 53); } /* при нажатии */
+
+#logo {  /*название*/
+    font-size: 25px;
+    font-style: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    color: green;
+    line-height: 30px;
+}
+
+
+#sagolovok1 { 
+    font-size: 25px;
+    font-style: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: ;
+    color: green;
+   padding: 0.5em 4.5em;
+    }
+
+    #sagolovok2 { 
+        font-size: 25px;
+        font-style: normal;
+        font-weight: normal;
+        font-stretch: normal;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align: bottom;
+        color: green;
+       padding: 0.5em 6em;
+        }
+
+
+.spisok {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    color: green;
+    line-height: 35px;
+}    
+
+.form1 {
+    padding: 0.5em 3em
+}
